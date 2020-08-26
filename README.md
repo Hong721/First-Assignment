@@ -1,2 +1,2 @@
-# first-assignment
-It's about having CSS linked to a html file correctly
+https://github.com/Hong721/first-assignment
+
